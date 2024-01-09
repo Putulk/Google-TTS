@@ -2,7 +2,7 @@
 
 Google-Cloud Text-To-Speech is a text-to-speech conversion service. 
 
-### Enable the Text-To-Speech API 
+### * Enable the Text-To-Speech API 
 A) Visit the Google Cloud Console. 
 
 B) Create a new project or select an existing one. 
